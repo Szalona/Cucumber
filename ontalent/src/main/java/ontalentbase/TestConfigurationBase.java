@@ -11,9 +11,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import page.LoginPage;
 
 public class TestConfigurationBase {
-    public String userName = "ewa.tusinska@onwelo.com";
-    public String password = "cokolwiek";
-    public String url = "https://ontalent-tst.onwelo.com/";
+    public String userName = "...";
+    public String password = "...";
+    public String url = "...";
 
     private static final String CHROME_FILEPATH = "/drivers/chromedriver.exe";
     private static final String FIREFOX_FILEPATH = "/drivers/geckodriver.exe";
