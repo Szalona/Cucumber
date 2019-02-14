@@ -17,7 +17,7 @@ import java.time.LocalDate;
 import static java.awt.event.KeyEvent.*;
 
 public abstract class Base {
-    public static final String PLATFORM_URL = "https://ontalent-tst.onwelo.com/";
+    public static final String PLATFORM_URL = "...";
     public static final int NUMBER_OF_MINISECONDS_TO_SLEEP_THREAD = 500;
 
     private static final String CHROME_FILEPATH = "/drivers/chromedriver.exe";
